@@ -1,12 +1,10 @@
 H1 {
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: center;
+text-align: justify;
+text-justify: inter-word;
 }
 
 nav li {
   display: inline;
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: center;
+text-align: justify;
+text-justify: inter-word;
 }
