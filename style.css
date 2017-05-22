@@ -1,8 +1,12 @@
 H1 {
+  display: flex; 
+  flex-wrap: wrap; 
   justify-content: center;
 }
 
 nav li {
   display: inline;
+  display: flex; 
+  flex-wrap: wrap; 
   justify-content: center;
 }
