@@ -1,6 +1,8 @@
 H1 {
-color:red;
+  justify-content: center;
 }
 
 nav li {
   display: inline;
+  justify-content: center;
+}
