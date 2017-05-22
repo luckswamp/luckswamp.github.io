@@ -6,3 +6,7 @@ nav li {
   display: inline;
   text-align: justify;
 }
+
+body {
+    background-color: #FDFDF0;
+}
